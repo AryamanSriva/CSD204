@@ -1,0 +1,46 @@
+Run the code using:
+1.gcc -o BankersAlgo BankersAlgo.c
+2../BankersAlgo
+3.Enter the number of processes
+4.Enter the number of resources
+5.Enter the allocation matrix
+6.Enter the max matrix
+7.Enter the available resources (Elements = Number of resources)
+
+Sample output:
+The following system is not safe
+	OR
+Following is the SAFE Sequence (...)
+
+Code Explanation:-
+
+1.Input:
+The program prompts the user to enter the number of processes (n) and the number of resources (m).
+It then creates arrays to store the allocation matrix (alloc), maximum matrix (max), and available resources (avail).
+
+2.Matrix Input:
+Users are prompted to input the allocation matrix and the maximum matrix, both of size n x m, representing the current allocation and the maximum demand of resources for each process.
+Additionally, users input the available resources.
+
+3.Need Calculation:
+The program calculates the need matrix (need) by subtracting the allocation matrix from the maximum matrix for each process and resource.
+
+4.Safety Algorithm:
+The program uses a safety algorithm to determine whether there exists a safe sequence of resource allocation.
+It initializes arrays f[] and ans[] to keep track of whether a process is finished and the safe sequence respectively.
+It iterates n times to find a safe sequence.
+For each process, it checks if it can be completed by checking if its resource needs are less than or equal to the available resources.
+If a process can be completed, it's added to the safe sequence (ans[]) and its allocated resources are released back to the available pool.
+The f[] array is used to mark processes as finished.
+If all processes can be completed safely, it prints the safe sequence.
+
+5.Safety Check:
+After finding the safe sequence, it checks if all processes have been marked as finished (f[] == 1).
+If any process remains unfinished, it indicates that the system is not in a safe state.
+
+6.Output:
+If the system is safe, it prints the safe sequence of processes.
+If the system is not safe, it prints a message indicating the system is not safe.
+
+
+
