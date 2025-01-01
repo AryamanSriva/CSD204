@@ -1,0 +1,166 @@
+Critical Section 1:
+
+Critical Section 1 Requested at Mon Mar 18 22:29:35 2024
+ by Thread 1
+Critical Section 1 Entered at Mon Mar 18 22:29:35 2024
+ by Thread 1
+Critical Section 1 Exited at Mon Mar 18 22:29:35 2024
+ by Thread 1
+Critical Section 1 Requested at Mon Mar 18 22:29:35 2024
+ by Thread 2
+Critical Section 1 Entered at Mon Mar 18 22:29:35 2024
+ by Thread 2
+Critical Section 1 Exited at Mon Mar 18 22:29:35 2024
+ by Thread 2
+Critical Section 1 Requested at Mon Mar 18 22:29:35 2024
+ by Thread 3
+Critical Section 1 Entered at Mon Mar 18 22:29:35 2024
+ by Thread 3
+Critical Section 1 Exited at Mon Mar 18 22:29:35 2024
+ by Thread 3
+Critical Section 1 Requested at Mon Mar 18 22:29:35 2024
+ by Thread 4
+Critical Section 1 Entered at Mon Mar 18 22:29:35 2024
+ by Thread 4
+Critical Section 1 Exited at Mon Mar 18 22:29:35 2024
+ by Thread 4
+Critical Section 1 Requested at Mon Mar 18 22:29:35 2024
+ by Thread 5
+Critical Section 1 Entered at Mon Mar 18 22:29:35 2024
+ by Thread 5
+Critical Section 1 Exited at Mon Mar 18 22:29:35 2024
+ by Thread 5
+
+Critical Section 2:
+
+Critical Section 2 Requested at Mon Mar 18 22:29:35 2024
+ by Thread 1
+Critical Section 2 Entered at Mon Mar 18 22:29:35 2024
+ by Thread 1
+Critical Section 2 Exited at Mon Mar 18 22:29:35 2024
+ by Thread 1
+Critical Section 2 Requested at Mon Mar 18 22:29:35 2024
+ by Thread 2
+Critical Section 2 Entered at Mon Mar 18 22:29:35 2024
+ by Thread 2
+Critical Section 2 Exited at Mon Mar 18 22:29:35 2024
+ by Thread 2
+Critical Section 2 Requested at Mon Mar 18 22:29:35 2024
+ by Thread 3
+Critical Section 2 Entered at Mon Mar 18 22:29:35 2024
+ by Thread 3
+Critical Section 2 Exited at Mon Mar 18 22:29:35 2024
+ by Thread 3
+Critical Section 2 Requested at Mon Mar 18 22:29:35 2024
+ by Thread 4
+Critical Section 2 Entered at Mon Mar 18 22:29:35 2024
+ by Thread 4
+Critical Section 2 Exited at Mon Mar 18 22:29:35 2024
+ by Thread 4
+Critical Section 2 Requested at Mon Mar 18 22:29:35 2024
+ by Thread 5
+Critical Section 2 Entered at Mon Mar 18 22:29:35 2024
+ by Thread 5
+Critical Section 2 Exited at Mon Mar 18 22:29:36 2024
+ by Thread 5
+
+Critical Section 3:
+
+Critical Section 3 Requested at Mon Mar 18 22:29:36 2024
+ by Thread 1
+Critical Section 3 Entered at Mon Mar 18 22:29:36 2024
+ by Thread 1
+Critical Section 3 Exited at Mon Mar 18 22:29:36 2024
+ by Thread 1
+Critical Section 3 Requested at Mon Mar 18 22:29:36 2024
+ by Thread 2
+Critical Section 3 Entered at Mon Mar 18 22:29:36 2024
+ by Thread 2
+Critical Section 3 Exited at Mon Mar 18 22:29:36 2024
+ by Thread 2
+Critical Section 3 Requested at Mon Mar 18 22:29:36 2024
+ by Thread 3
+Critical Section 3 Entered at Mon Mar 18 22:29:36 2024
+ by Thread 3
+Critical Section 3 Exited at Mon Mar 18 22:29:36 2024
+ by Thread 3
+Critical Section 3 Requested at Mon Mar 18 22:29:36 2024
+ by Thread 4
+Critical Section 3 Entered at Mon Mar 18 22:29:36 2024
+ by Thread 4
+Critical Section 3 Exited at Mon Mar 18 22:29:36 2024
+ by Thread 4
+Critical Section 3 Requested at Mon Mar 18 22:29:36 2024
+ by Thread 5
+Critical Section 3 Entered at Mon Mar 18 22:29:36 2024
+ by Thread 5
+Critical Section 3 Exited at Mon Mar 18 22:29:36 2024
+ by Thread 5
+
+Critical Section 4:
+
+Critical Section 4 Requested at Mon Mar 18 22:29:36 2024
+ by Thread 1
+Critical Section 4 Entered at Mon Mar 18 22:29:36 2024
+ by Thread 1
+Critical Section 4 Exited at Mon Mar 18 22:29:36 2024
+ by Thread 1
+Critical Section 4 Requested at Mon Mar 18 22:29:36 2024
+ by Thread 2
+Critical Section 4 Entered at Mon Mar 18 22:29:36 2024
+ by Thread 2
+Critical Section 4 Exited at Mon Mar 18 22:29:36 2024
+ by Thread 2
+Critical Section 4 Requested at Mon Mar 18 22:29:36 2024
+ by Thread 3
+Critical Section 4 Entered at Mon Mar 18 22:29:36 2024
+ by Thread 3
+Critical Section 4 Exited at Mon Mar 18 22:29:36 2024
+ by Thread 3
+Critical Section 4 Requested at Mon Mar 18 22:29:36 2024
+ by Thread 4
+Critical Section 4 Entered at Mon Mar 18 22:29:36 2024
+ by Thread 4
+Critical Section 4 Exited at Mon Mar 18 22:29:36 2024
+ by Thread 4
+Critical Section 4 Requested at Mon Mar 18 22:29:36 2024
+ by Thread 5
+Critical Section 4 Entered at Mon Mar 18 22:29:36 2024
+ by Thread 5
+Critical Section 4 Exited at Mon Mar 18 22:29:36 2024
+ by Thread 5
+
+Critical Section 5:
+
+Critical Section 5 Requested at Mon Mar 18 22:29:36 2024
+ by Thread 1
+Critical Section 5 Entered at Mon Mar 18 22:29:36 2024
+ by Thread 1
+Critical Section 5 Exited at Mon Mar 18 22:29:36 2024
+ by Thread 1
+Critical Section 5 Requested at Mon Mar 18 22:29:36 2024
+ by Thread 2
+Critical Section 5 Entered at Mon Mar 18 22:29:36 2024
+ by Thread 2
+Critical Section 5 Exited at Mon Mar 18 22:29:36 2024
+ by Thread 2
+Critical Section 5 Requested at Mon Mar 18 22:29:36 2024
+ by Thread 3
+Critical Section 5 Entered at Mon Mar 18 22:29:36 2024
+ by Thread 3
+Critical Section 5 Exited at Mon Mar 18 22:29:36 2024
+ by Thread 3
+Critical Section 5 Requested at Mon Mar 18 22:29:36 2024
+ by Thread 4
+Critical Section 5 Entered at Mon Mar 18 22:29:36 2024
+ by Thread 4
+Critical Section 5 Exited at Mon Mar 18 22:29:36 2024
+ by Thread 4
+Critical Section 5 Requested at Mon Mar 18 22:29:36 2024
+ by Thread 5
+Critical Section 5 Entered at Mon Mar 18 22:29:36 2024
+ by Thread 5
+Critical Section 5 Exited at Mon Mar 18 22:29:36 2024
+ by Thread 5
+
+Total Execution Time: 1.43 seconds

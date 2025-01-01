@@ -1,0 +1,11 @@
+Run the codes using:
+1. gcc -o <cas> <cas>.c -pthread -lm
+2. ./<cas>
+3. Input file inp-params.txt should be present
+4. Output file output-<cas>.txt should be present 
+
+The output will be printed in the output files given separately for each program
+
+The output contains the time taken for each program to execute 
+
+The graphs can be plotted using graphs.py
