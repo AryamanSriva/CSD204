@@ -1,0 +1,5 @@
+Run the codes using:
+1. gcc -o <address-translator> <address-translator>.c -lm
+2. ./<address-translator>
+3. Give valid input
+4. The output will be generated and showed directly in the console 
