@@ -1,0 +1,2 @@
+Hello, this is the input file for Question 6 
+Written by Aryaman Srivastava 2210110206
